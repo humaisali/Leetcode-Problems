@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/humaisali/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
