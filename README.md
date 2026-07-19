@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/humaisali/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/humaisali/Leetcode-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
