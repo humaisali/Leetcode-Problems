@@ -1,35 +1,38 @@
 class Solution {
 public:
-    vector<vector<int>> memo;
+    bool isMatch(string s, string p) {
+        int m = s.size();
+        int n = p.size();
 
-    bool dfs(int i, int j, string &s, string &p) {
-        if (memo[i][j] != -1)
-            return memo[i][j];
+        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
 
-        if (j == p.size())
-            return memo[i][j] = (i == s.size());
+        dp[0][0] = true;
 
-        bool firstMatch =
-            (i < s.size() &&
-             (s[i] == p[j] || p[j] == '.'));
-
-        bool ans;
-
-        if (j + 1 < p.size() && p[j + 1] == '*') {
-            ans = dfs(i, j + 2, s, p) ||
-                  (firstMatch && dfs(i + 1, j, s, p));
-        } else {
-            ans = firstMatch &&
-                  dfs(i + 1, j + 1, s, p);
+        // Handle patterns like a*, a*b*, a*b*c*
+        for (int j = 2; j <= n; j++) {
+            if (p[j - 1] == '*')
+                dp[0][j] = dp[0][j - 2];
         }
 
-        return memo[i][j] = ans;
-    }
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
 
-    bool isMatch(string s, string p) {
-        memo.assign(s.size() + 1,
-                    vector<int>(p.size() + 1, -1));
+                if (p[j - 1] == '.' || p[j - 1] == s[i - 1]) {
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                else if (p[j - 1] == '*') {
 
-        return dfs(0, 0, s, p);
+                    // Case 1: Treat x* as empty
+                    dp[i][j] = dp[i][j - 2];
+
+                    // Case 2: Use one or more occurrences
+                    if (p[j - 2] == '.' || p[j - 2] == s[i - 1]) {
+                        dp[i][j] = dp[i][j] || dp[i - 1][j];
+                    }
+                }
+            }
+        }
+
+        return dp[m][n];
     }
 };
