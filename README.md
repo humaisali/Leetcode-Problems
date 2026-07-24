@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/humaisali/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/humaisali/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/humaisali/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
