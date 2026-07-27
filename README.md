@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/humaisali/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/humaisali/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/humaisali/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/humaisali/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/humaisali/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/humaisali/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/humaisali/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
