@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/humaisali/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/humaisali/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/humaisali/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/humaisali/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/humaisali/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/humaisali/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
