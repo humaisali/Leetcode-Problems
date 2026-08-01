@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/humaisali/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/humaisali/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/humaisali/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/humaisali/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/humaisali/Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/humaisali/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/humaisali/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0486-predict-the-winner](https://github.com/humaisali/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humaisali/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/humaisali/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/humaisali/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/humaisali/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/humaisali/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/humaisali/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/humaisali/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/humaisali/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/humaisali/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/humaisali/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/humaisali/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/humaisali/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/humaisali/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
